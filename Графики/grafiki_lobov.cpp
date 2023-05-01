@@ -1,4 +1,6 @@
-﻿#include <GL/glut.h>
+﻿//20й -> 10й вариант, нарисовать сердце и фигуры Лиссажу
+
+#include <GL/glut.h>
 #include <array>
 #include <cmath>
 
